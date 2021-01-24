@@ -1,0 +1,13 @@
+.layout-column, .layout-row {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    list-style-type:none;
+}
+
+.kanban {
+    display: flex;
+    justify-content: center;
+}
